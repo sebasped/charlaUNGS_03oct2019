@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="www.draw.io" modified="2019-10-04T00:00:56.758Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="Epgs8CI3vskrZ4iIPU6K" version="12.0.2" type="device" pages="1">
+  <diagram id="9jEtwEMSBzsFZ0hR_dxh" name="Page-1">
+    <mxGraphModel dx="1088" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="120" as="sourcePoint"/>
+            <mxPoint x="660" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="120" as="sourcePoint"/>
+            <mxPoint x="400" y="290" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-4" value="&lt;div&gt;Temperatura&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="100" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-5" value="&lt;div&gt;Profundidad&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="590" as="sourcePoint"/>
+            <mxPoint x="480" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-8" value="&lt;div&gt;Geoterma&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-9" value="20 C" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-10" value="Superficie" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="511" as="sourcePoint"/>
+            <mxPoint x="230" y="511" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-13" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="520" as="sourcePoint"/>
+            <mxPoint x="230" y="520" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-16" value="Entrada de hidrocarburo a 60 C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="520" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-17" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="565" as="sourcePoint"/>
+            <mxPoint x="370" y="530" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-18" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="560" as="sourcePoint"/>
+            <mxPoint x="620" y="510" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.5" y="500" as="sourcePoint"/>
+            <mxPoint x="299.5" y="440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="759" width="120" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-37" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="759" as="sourcePoint"/>
+            <mxPoint x="610" y="759" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-38" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="759" as="sourcePoint"/>
+            <mxPoint x="350" y="929" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-39" value="&lt;div&gt;Temperatura&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="739" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-40" value="&lt;div&gt;Profundidad&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="929" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-41" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1229" as="sourcePoint"/>
+            <mxPoint x="430" y="759" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-42" value="&lt;div&gt;Geoterma&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1069" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-43" value="20 C" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="739" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-44" value="Superficie" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="739" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-45" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="1150" as="sourcePoint"/>
+            <mxPoint x="180" y="1150" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-46" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="1159" as="sourcePoint"/>
+            <mxPoint x="180" y="1159" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-47" value="Entrada de hidrocarburo a 60 C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1159" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-48" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="1204" as="sourcePoint"/>
+            <mxPoint x="320" y="1169" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-49" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="1199" as="sourcePoint"/>
+            <mxPoint x="570" y="1149" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-50" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249.5" y="1139" as="sourcePoint"/>
+            <mxPoint x="249.5" y="1079" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-55" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="1140" as="sourcePoint"/>
+            <mxPoint x="525" y="761" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="575" y="970"/>
+              <mxPoint x="545" y="791"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-56" value="&lt;div&gt;Temperatura del &lt;br&gt;&lt;/div&gt;&lt;div&gt;hidrocarburo subiendo&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="939" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1428" width="120" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-58" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="1428" as="sourcePoint"/>
+            <mxPoint x="635" y="1428" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-59" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="1428" as="sourcePoint"/>
+            <mxPoint x="375" y="1598" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-60" value="&lt;div&gt;Temperatura&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1408" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-61" value="&lt;div&gt;Profundidad&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1598" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-62" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="625" y="1898" as="sourcePoint"/>
+            <mxPoint x="455" y="1428" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-63" value="&lt;div&gt;Geoterma&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1748" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-64" value="20 C" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1408" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-65" value="Superficie" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1408" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-66" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="1819" as="sourcePoint"/>
+            <mxPoint x="205" y="1819" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-67" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="1828" as="sourcePoint"/>
+            <mxPoint x="205" y="1828" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-68" value="Entrada de hidrocarburo a 60 C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1828" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-69" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1873" as="sourcePoint"/>
+            <mxPoint x="345" y="1838" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-70" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1868" as="sourcePoint"/>
+            <mxPoint x="595" y="1818" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-71" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274.5" y="1808" as="sourcePoint"/>
+            <mxPoint x="274.5" y="1748" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="2067" width="120" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-73" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="2067" as="sourcePoint"/>
+            <mxPoint x="585" y="2067" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-74" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="2067" as="sourcePoint"/>
+            <mxPoint x="325" y="2237" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-75" value="&lt;div&gt;Temperatura&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="2047" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-76" value="&lt;div&gt;Profundidad&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="2237" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-77" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="2537" as="sourcePoint"/>
+            <mxPoint x="405" y="2067" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-78" value="&lt;div&gt;Geoterma&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="2377" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-79" value="20 C" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="2047" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-80" value="Superficie" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="2047" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-81" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="2458" as="sourcePoint"/>
+            <mxPoint x="155" y="2458" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-82" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="2467" as="sourcePoint"/>
+            <mxPoint x="155" y="2467" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-83" value="Entrada de hidrocarburo a 60 C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2467" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-84" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="2512" as="sourcePoint"/>
+            <mxPoint x="295" y="2477" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-85" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="2507" as="sourcePoint"/>
+            <mxPoint x="545" y="2457" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-86" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224.5" y="2447" as="sourcePoint"/>
+            <mxPoint x="224.5" y="2387" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-87" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="531" y="2292" as="sourcePoint"/>
+            <mxPoint x="481" y="2071" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="531" y="2280"/>
+              <mxPoint x="501" y="2101"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-88" value="&lt;div&gt;Temperatura del &lt;br&gt;&lt;/div&gt;&lt;div&gt;hidrocarburo subiendo&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="2185" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-89" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="2320" as="sourcePoint"/>
+            <mxPoint x="160" y="2320" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-90" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="2329" as="sourcePoint"/>
+            <mxPoint x="160" y="2329" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-92" value="Entrada de hidrocarburo a 45 C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="2330" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-93" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="2375" as="sourcePoint"/>
+            <mxPoint x="290" y="2340" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-94" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415" y="2370" as="sourcePoint"/>
+            <mxPoint x="500" y="2330" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-95" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="2460" as="sourcePoint"/>
+            <mxPoint x="550" y="2310" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="565" y="2439"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-96" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="2310" as="sourcePoint"/>
+            <mxPoint x="530" y="2290" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-97" value="&lt;div&gt;Caída de la temperatura &lt;br&gt;&lt;/div&gt;&lt;div&gt;por ingreso de &lt;br&gt;&lt;/div&gt;&lt;div&gt;hidrocarburo más frío&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2315" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-98" value="" style="endArrow=classic;html=1;exitX=0.074;exitY=-0.133;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ihtMYPaw3KKNn8zYOf03-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="2290" as="sourcePoint"/>
+            <mxPoint x="550" y="2300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-99" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219.5" y="2296" as="sourcePoint"/>
+            <mxPoint x="219.5" y="2236" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-100" value="&lt;div&gt;Difusión+Transporte&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2130" width="130" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-101" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="2139.5" as="sourcePoint"/>
+            <mxPoint x="520" y="2120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-102" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="625" y="2255" as="sourcePoint"/>
+            <mxPoint x="545" y="2290" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-103" value="Balance energía" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2245" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ihtMYPaw3KKNn8zYOf03-104" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="2160" as="sourcePoint"/>
+            <mxPoint x="530" y="2180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
